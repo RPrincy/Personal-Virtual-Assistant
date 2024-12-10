@@ -34,3 +34,7 @@ Install the required dependencies using the following command:
 
 ```bash
 pip install speechrecognition pyttsx3 pygame requests tkinter pillow
+
+
+### **Note**
+Please download the image and the audio files to your local machine and replace the paths of the files in the code to enjoy the experience and ensure that code is working as mentioned above.
